@@ -46,7 +46,7 @@ h1 {
 }
 
 #home {
-  background: url(./assets/img/fond.png) no-repeat center center fixed;
+  background: url(./assets/img/fond.webp) no-repeat center center fixed;
   display: table;
   height: 100vh;
   position: relative;
